@@ -1,0 +1,10 @@
+[general]
+name=サンプルプラグイン
+qgisMinimumVersion=3.00
+description=はじめてのPythonプラグイン
+about=はじめて作成する用のPythonプラグイン。選択しているレイヤの名称を変更する。
+version=1.0
+
+icon=icon/icon.svg
+
+author=other
